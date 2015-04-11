@@ -75,8 +75,3 @@ Session.vim
 .netrwhist
 *~
 
-# copay public
-public/icons/*
-public/css/*
-public/lib/*
-public/js/*
